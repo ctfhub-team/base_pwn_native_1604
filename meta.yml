@@ -1,0 +1,6 @@
+name: base_pwn_native_1604
+title: 基础镜像 PWN Native - ubuntu 1604
+desc: 基础镜像 PWN Native - ubuntu 1604
+tags:
+  - pwn
+  - ubuntu1604
