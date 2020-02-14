@@ -10,5 +10,5 @@ services:
     ports:
       - "10000:10000"
     environment:
-      - FLAG=ctfhub{base_pwn_xinetd}
+      - FLAG=ctfhub{base_pwn}
       - TCPDUMP_ENABLE=1
